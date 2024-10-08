@@ -1,1 +1,1 @@
-# Entri_MOD2_Project
+This PowerBI reports provides a comprehensive overview of the key financial and operational metrics of the organization. The primary aim of this report is to analyze sales perfomance, monitor profit margins and assess growth opportunities across different product categories and regions. This report serves as a decision making tool for business stakeholders to drive strategic initiatives and optimize operations.
